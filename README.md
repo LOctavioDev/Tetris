@@ -1,6 +1,8 @@
 # Tetris en Python
 
-![Python Logo](https://image.pngaaa.com/435/3594435-small.png)
+<div align="center">
+  <img src="https://www.pngmart.com/files/23/Python-Logo-PNG-Pic.png" alt="Python Logo" width="200" height="200">
+</div>
 
 Este es un proyecto de Tetris implementado en Python. El juego del Tetris es un clásico atemporal que desafía tu habilidad para organizar y encajar piezas en constante caída. Esta versión en Python te permite disfrutar de este juego adictivo directamente desde tu terminal.
 
